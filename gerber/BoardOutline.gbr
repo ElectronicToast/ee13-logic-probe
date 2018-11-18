@@ -1,0 +1,23 @@
+G04 DipTrace 3.3.0.0*
+G04 BoardOutline.gbr*
+%MOIN*%
+G04 #@! TF.FileFunction,Profile*
+G04 #@! TF.Part,Single*
+%ADD11C,0.005512*%
+%FSLAX26Y26*%
+G04*
+G70*
+G90*
+G75*
+G01*
+G04 BoardOutline*
+%LPD*%
+X0Y912500D2*
+D11*
+Y587500D1*
+X850000Y0D1*
+X5550000D1*
+Y1500000D1*
+X850000D1*
+X0Y912500D1*
+M02*
