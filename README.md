@@ -1,4 +1,6 @@
 # ee13-logic-probe
+![madewith](https://img.shields.io/badge/made%20with-DipTrace-green)
+
 Multipurpose logic probe board for EE 13 at Caltech
 
 ![front](img/logic-probe-front.PNG)
